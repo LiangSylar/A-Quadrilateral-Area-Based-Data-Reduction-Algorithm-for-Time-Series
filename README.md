@@ -1,0 +1,1 @@
+# A-Quadrilateral-Area-Based-Data-Reduction-Algorithm-for-Time-Series
